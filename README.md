@@ -1,5 +1,5 @@
 # hepsub-graylog
-HEP Pub-Sub Client for Graylog API
+HEP Pub-Sub Agent for Graylog API
 
 1. What is it?
 
