@@ -77,7 +77,6 @@ try {
 
 api.searchRelative({
   query: query_to_graylog,
-//  query: 'xcid:3f46e4732f661ac256eced0d66ece08b@10.96.154.7:5060',
   keyword: '3000000',
   limit: config.graylog.limit,
   fields: config.graylog.fields
