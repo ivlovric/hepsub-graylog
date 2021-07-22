@@ -20,7 +20,7 @@ var config = {
 	"username": "test",
     	"password": "testpass",
   	"protocol": "http",
- 	"search_field": "xcid", //Name of Graylog field name to search with HEPSUB input request parameters
+ 	"search_field": "xcid", //Name of Graylog field name to search with HEPSUB input request correlation id
         "limit": "55",
  	"fields": "message,facility,timestamp" //Graylog fields to display in response
   }
