@@ -1,6 +1,6 @@
 {
   "name": "hepsub-graylog",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "HEP pubsub API for Graylog API",
   "main": "elastic.js",
   "scripts": {
