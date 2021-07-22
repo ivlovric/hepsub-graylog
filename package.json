@@ -1,10 +1,10 @@
 {
-  "name": "hepsub-elastic",
+  "name": "hepsub-graylog",
   "version": "1.0.1",
-  "description": "HEP pubsub API for Elasticsearch API",
+  "description": "HEP pubsub API for Graylog API",
   "main": "elastic.js",
   "scripts": {
-    "start": "node elastic.js",
+    "start": "node graylog.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
