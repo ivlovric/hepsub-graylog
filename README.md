@@ -11,4 +11,4 @@ All configuration is located in config.js. Change according to your needs
 
 Install deps with "npm install"
 
-Run with "node graylog.js" or "chmod +x graylog.js + ./graylg.js"
+Run with "node graylog.js" or "chmod +x graylog.js + ./graylog.js"
